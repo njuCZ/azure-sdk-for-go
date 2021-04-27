@@ -1,4 +1,4 @@
-module azartifacts
+module github.com/Azure/azure-sdk-for-go/sdk/synapse/2019-06-01/azartifacts
 
 go 1.13
 
